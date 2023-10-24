@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyCoffeeShopDrinkList</string>
+    <string name="nama_coffee">Coffee Name</string>
+    <string name="detail_coffee">Coffee Detail</string>
+</resources>
